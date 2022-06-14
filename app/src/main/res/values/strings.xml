@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FLOS PROJESCTS APP</string>
+    <string name="name">name</string>
+    <string name="harga">harga</string>
+    <string name="detail">detail</string>
+    <string name="Pesan">Pesan</string>
+    <string name="read">Lihat</string>
+</resources>
